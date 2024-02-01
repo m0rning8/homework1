@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9043f538-1db4-4c04-9ae9-15d8eaf60f9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hw1/hw1_3.html" afterDir="false" />
+    <list default="true" id="9043f538-1db4-4c04-9ae9-15d8eaf60f9e" name="Changes" comment="зробив дз">
+      <change afterPath="$PROJECT_DIR$/hw2/hw2.1 .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/hw2.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/hw2.2 .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/hw2.3 .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/Пояснення.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2bgPXkbyL6Mf7BOJ8xCpJnnvYxe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -33,23 +38,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\he11s1n9\IdeaProjects\homework1\hw2" />
       <recent name="C:\Users\he11s1n9\IdeaProjects\homework1\hw1" />
     </key>
   </component>
@@ -61,11 +67,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706633793329</updated>
-      <workItem from="1706633794382" duration="1488000" />
+      <workItem from="1706633794382" duration="3598000" />
+      <workItem from="1706652424684" duration="65000" />
+      <workItem from="1706810470357" duration="1319000" />
     </task>
+    <task id="LOCAL-00001" summary="зробив дз">
+      <option name="closed" value="true" />
+      <created>1706635297657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706635297657</updated>
+    </task>
+    <task id="LOCAL-00002" summary="зробив дз">
+      <option name="closed" value="true" />
+      <created>1706640208137</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706640208137</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="зробив дз" />
+    <option name="LAST_COMMIT_MESSAGE" value="зробив дз" />
   </component>
 </project>
