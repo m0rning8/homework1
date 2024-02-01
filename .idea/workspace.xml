@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9043f538-1db4-4c04-9ae9-15d8eaf60f9e" name="Changes" comment="зробив дз">
-      <change afterPath="$PROJECT_DIR$/hw2/hw2.1 .png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/hw2.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/hw2.2 .png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/hw2.3 .png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/Пояснення.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/hw2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/hw2.1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +65,7 @@
       <updated>1706633793329</updated>
       <workItem from="1706633794382" duration="3598000" />
       <workItem from="1706652424684" duration="65000" />
-      <workItem from="1706810470357" duration="1319000" />
+      <workItem from="1706810470357" duration="1929000" />
     </task>
     <task id="LOCAL-00001" summary="зробив дз">
       <option name="closed" value="true" />
@@ -87,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706640208137</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="зробив дз">
+      <option name="closed" value="true" />
+      <created>1706811876086</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706811876086</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
