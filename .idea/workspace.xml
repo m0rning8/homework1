@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9043f538-1db4-4c04-9ae9-15d8eaf60f9e" name="Changes" comment="зробив дз">
+      <change afterPath="$PROJECT_DIR$/hw3/hw3.1.3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw3/hw3.1.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/hw3.1.2.html" afterDir="false" />
     </list>
@@ -68,7 +69,7 @@
       <workItem from="1706633794382" duration="3598000" />
       <workItem from="1706652424684" duration="65000" />
       <workItem from="1706810470357" duration="9570000" />
-      <workItem from="1707242586476" duration="6828000" />
+      <workItem from="1707242586476" duration="7461000" />
     </task>
     <task id="LOCAL-00001" summary="зробив дз">
       <option name="closed" value="true" />
@@ -134,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707258263516</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="зробив дз">
+      <option name="closed" value="true" />
+      <created>1707259740966</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707259740966</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
