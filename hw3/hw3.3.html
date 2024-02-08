@@ -2,15 +2,14 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>hw3.1.5</title>
+    <title>hw3.3</title>
     <style>
-        #lorem2{
-            color: white;
+        html{
+            scroll-behavior: smooth;
         }
         #title2{
             font-size: 48px;
             font-weight: bold;
-            color: white;
         }
         #title1{
             font-size: 48px;
@@ -28,16 +27,25 @@
         body{
             margin: 0;
         }
-        main{
-            display: flex;
-        }
         #content-1{
-            height: 50vh;
-            background: hotpink;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            display: flex;
+            height: 100vh;
+            background: orangered;
         }
         #content-2{
-            height: 50vh;
-            background: darkslategrey;
+            height: 100vh;
+            background: cadetblue;
+        }
+        #content-3{
+            height: 100vh;
+            background: palegreen;
+        }
+        #title3{
+            font-size: 48px;
+            font-weight: bold;
         }
     </style>
 </head>
@@ -46,15 +54,33 @@
         <div>
             <p id="title1">Section title</p>
         </div>
-        <p id="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt numquam repudiandae
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt numquam repudiandae
             similique sint. Ad aliquid, architecto aspernatur commodi deleniti doloremque laborum nobis, omnis quis ratione, rerum tempora vitae voluptatem?</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt numquam repudiandae
+            similique sint. Ad aliquid, architecto aspernatur commodi deleniti doloremque laborum nobis, omnis quis ratione, rerum tempora vitae voluptatem?</p>
+        <a href="#content-2" style="font-size: 4rem; color: black;">&#8595;</a>
     </section>
     <section id="content-2">
+        <div><a href="#content-1" style="font-size: 4rem; color: black;">&#8593;</a></div>
         <div>
             <p id="title2">Section title</p>
         </div>
-        <p id="lorem2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt numquam repudiandae
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt numquam repudiandae
             similique sint. Ad aliquid, architecto aspernatur commodi deleniti doloremque laborum nobis, omnis quis ratione, rerum tempora vitae voluptatem?</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt numquam repudiandae
+            similique sint. Ad aliquid, architecto aspernatur commodi deleniti doloremque laborum nobis, omnis quis ratione, rerum tempora vitae voluptatem?</p>
+        <div><a href="#content-3" style="font-size: 4rem; color: black;">&#8595;</a></div>
+    </section>
+    <section id="content-3">
+        <div><a href="#content-2" style="font-size: 4rem; color: black;">&#8593;</a></div>
+        <div>
+            <p id="title3">Section title</p>
+        </div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt numquam repudiandae
+            similique sint. Ad aliquid, architecto aspernatur commodi deleniti doloremque laborum nobis, omnis quis ratione, rerum tempora vitae voluptatem?</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt numquam repudiandae
+            similique sint. Ad aliquid, architecto aspernatur commodi deleniti doloremque laborum nobis, omnis quis ratione, rerum tempora vitae voluptatem?</p>
+        <div><a href="#content-1" style="font-size: 4rem; color: black;">&#8962;</a></div>
     </section>
 </body>
 </html>
