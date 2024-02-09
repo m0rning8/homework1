@@ -1,0 +1,169 @@
+.section-1{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background-image: url("img/bg.jpg");
+    background-size: 100%;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    font-family: 'KoHo', sans-serif;
+    margin: 0;
+}
+.div-1{
+    width: 529px;
+    height: 50vh;
+    background-image: url("img/nature.jpg");
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.div-1-2{
+    display: flex;
+    width: 529px;
+    height: 50vh;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.title1{
+    font-size: 45px;
+    font-weight: bold;
+}
+.text1{
+    margin-top: 44px;
+    font-size: 25px;
+}
+.button1{
+    font-size: 30px;
+    width: 409px;
+    height: 76px;
+    margin-top: 44px;
+}
+.video1{
+    display: flex;
+    position: relative;
+    top: -70px;
+}
+.section-2{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.text2{
+    font-size: 24px;
+    width: 600px;
+}
+.section-3{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.blocks{
+    width: 95%;
+    height: 80vh;
+    margin-bottom: 144px;
+    margin-top: 156px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.block1{
+    display: flex;
+    width: 453px;
+    height: 100%;
+    background: rgba(83, 83, 83, 0.4);
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.block2{
+    display: flex;
+    width: 453px;
+    height: 100%;
+    background: rgba(83, 83, 83, 0.4);
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.block3{
+    display: flex;
+    width: 453px;
+    height: 100%;
+    background: rgba(83, 83, 83, 0.4);
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.img1{
+    width: 408px;
+    height: 214px;
+    background-image: url("img/mountains.jpg");
+}
+.img2{
+    width: 290px;
+    height: 193px;
+    background-image: url("img/290px-Yosemite_National_Park.jpg");
+}
+.img3{
+    width: 408px;
+    height: 214px;
+    background-image: url("img/mountain.jpg");
+}
+.lorem1{
+    font-size: 35px;
+}
+.lorem2{
+    font-size: 35px;
+}
+.lorem3{
+    font-size: 35px;
+}
+.loremipsum1{
+    font-size: 35px;
+}
+.loremipsum2{
+    font-size: 35px;
+}
+.loremipsum3{
+    font-size: 35px;
+}
+.price1{
+    font-size: 35px;
+}
+.price2{
+    font-size: 35px;
+}
+.price3{
+    font-size: 35px;
+}
+.button2{
+    fill: rgba(217, 217, 217, 0.60);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    color: #6B6666;
+    font-size: 35px;
+    width: 409px;
+    height: 76px;
+}
+.button3{
+    fill: rgba(217, 217, 217, 0.60);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    color: #6B6666;
+    font-size: 35px;
+    width: 409px;
+    height: 76px;
+}
+.button4{
+    fill: rgba(217, 217, 217, 0.60);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    color: #6B6666;
+    font-size: 35px;
+    width: 409px;
+    height: 76px;
+}
