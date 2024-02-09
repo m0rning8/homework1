@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hw4.2</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <style>
+        body{
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+        }
+        .sign-up{
+            align-items: center;
+            justify-content: center;
+            display: flex;
+            border-radius: 4px;
+            border: 1px solid darkgray;
+            padding: 10px;
+            width: 40%;
+            height: 10vh;
+            margin-top: 5px;
+        }
+        .sign-in{
+            border-radius: 4px;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            display: flex;
+            margin-top: 10px;
+            border: 1px solid darkgray;
+            padding: 10px;
+            width: 40%;
+            height: 75vh;
+        }
+        .main{
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            display: flex;
+            width: 100%;
+            height: 100vh;
+        }
+        .icon{
+            height: 100px;
+            width: 300px;
+        }
+        .login{
+            text-overflow:ellipsis ;
+            font-size: 14px;
+            color: #8A8484;
+            border: 1px darkgrey solid;
+            border-radius: 3px;
+            margin-top: 40px;
+            width: 350px;
+            height: 35px;
+        }
+        .password{
+            font-size: 14px;
+            color: #8A8484;
+            border: 1px darkgrey solid;
+            border-radius: 3px;
+            width: 350px;
+            height: 35px;
+            margin-top: 10px;
+        }
+        .button{
+            opacity: 0.8;
+            color: white;
+            font-weight: 650;
+            font-size: 18px;
+            border-radius: 10px;
+            background-color: dodgerblue;
+            margin-top: 10px;
+            width: 358px;
+            height: 35px;
+        }
+        .or{
+            margin-bottom: 18px;
+            margin-top: 18px;
+            font-family: 'Roboto', sans-serif;
+            color: #6B6666;
+            font-size: 24px;
+        }
+        .facebook{
+            color: #3b5998;
+        }
+        .fbicon{
+            margin-bottom: -4px;
+            width: 20px;
+            height: 20px;
+        }
+        .fblogin{
+            text-decoration: none;
+        }
+        .forgot{
+            margin-top: 40px;
+        }
+        .forgotpw{
+            text-decoration: none;
+            color: #3b5998;
+        }
+        .reg{
+            margin-left: 5px;
+            color: #3b5998;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+<section class="main">
+    <div class="sign-in">
+        <div class="login-main"><img class="icon" src="img/insta.jpg" alt="Instagram"></div>
+        <div>
+            <input class="login" type="text" name="username"
+                   placeholder="Номер телефону, ім'я користувача або електронна пошта">
+        </div>
+        <div class="password-main"><input class="password" type="password" name="password" placeholder="Пароль"></div>
+        <div class="loginbutton"><button class="button">Увійти</button></div>
+        <div class="or">АБО</div>
+        <div
+                class="facebook"><img class="fbicon" src="img/Facebook_icon.svg.webp" alt="fb">
+            <a class="fblogin" href="https://facebook.com">Увійти через Facebook</a></div>
+        <div class="forgot"><a class="forgotpw" href="">Забули пароль?</a></div>
+    </div>
+    <div class="sign-up">Не маєте облікового запису?<a class="reg" href="">Зареєструйтеся</a></div>
+</section>
+</body>
+</html>
