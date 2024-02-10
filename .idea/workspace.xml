@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9043f538-1db4-4c04-9ae9-15d8eaf60f9e" name="Changes" comment="зробив дз">
-      <change afterPath="$PROJECT_DIR$/hw4/4.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/img/Facebook_icon.svg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/Task5.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/hw5.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/img/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/img/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/img/icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/Пояснення" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw4/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,29 +42,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\he11s1n9\IdeaProjects\homework1\hw5\img" />
+      <recent name="C:\Users\he11s1n9\IdeaProjects\homework1\hw5" />
       <recent name="C:\Users\he11s1n9\IdeaProjects\homework1\hw4\img" />
       <recent name="C:\Users\he11s1n9\IdeaProjects\homework1\hw4" />
       <recent name="C:\Users\he11s1n9\IdeaProjects\homework1\hw3" />
-      <recent name="C:\Users\he11s1n9\IdeaProjects\homework1\hw2" />
-      <recent name="C:\Users\he11s1n9\IdeaProjects\homework1\hw1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,7 +82,8 @@
       <workItem from="1707242586476" duration="11575000" />
       <workItem from="1707354360064" duration="3662000" />
       <workItem from="1707418338740" duration="621000" />
-      <workItem from="1707509808157" duration="12380000" />
+      <workItem from="1707509808157" duration="12644000" />
+      <workItem from="1707596790788" duration="8732000" />
     </task>
     <task id="LOCAL-00001" summary="зробив дз">
       <option name="closed" value="true" />
@@ -206,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707516482122</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="зробив дз">
+      <option name="closed" value="true" />
+      <created>1707522338908</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1707522338908</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
