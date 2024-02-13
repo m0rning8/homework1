@@ -1,0 +1,126 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    color: #fff;
+    font-family: "Lato", sans-serif;
+    margin: 0;
+}
+#firstpage{
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100vh;
+    background: #19191B;
+    display: flex;
+}
+header{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 10vh;
+}
+.nav{
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    letter-spacing: -0.5px;
+    width: 30%;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+}
+.logo{
+    margin-left: -5%;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 140%;
+}
+.imglogo{
+    margin-bottom: -8px;
+}
+.contact{
+    font-size: 16px;
+    margin-right: -5%;
+    color: #fff;
+    width: 10%;
+    height: 60%;
+    background: none;
+    border-radius: 5px;
+    border: 1px solid #FFF;
+    backdrop-filter: blur(1px);
+}
+.home{
+    color: #fff;
+    text-decoration: none;
+}
+.services{
+    color: #fff;
+    text-decoration: none;
+}
+.project{
+    color: #fff;
+    text-decoration: none;
+}
+.about{
+    color: #fff;
+    text-decoration: none;
+}
+.contact:hover{
+    background-color: darkgrey;
+    transition: 1s;
+    cursor: pointer;
+}
+a:hover{
+    color: darkslateblue;
+    transition: 1s;
+}
+.textandpic{
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+}
+.text-button{
+    margin-left: 40px;
+    width: 40vw;
+}
+.text1{
+    width: 60%;
+    font-size: 80px;
+}
+.text2{
+    margin-top: 4%;
+    color: rgba(255, 255, 255, 0.70);
+    width: 87%;
+    font-size: 21px;
+    letter-spacing: -0.657px;
+}
+.pic1{
+    width: 50vw;
+    height: 90vh;
+}
+.img1{
+    bottom: 5%;
+    left: 20%;
+    position: relative;
+    width: 40vw;
+    height: 99%;
+}
+.our-services{
+    color: #fff;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 4%;
+    width: 25%;
+    height: 6vh;
+    cursor: pointer;
+    border: #5454D4;
+    border-radius: 4px;
+    background: #5454D4;
+}
+.our-services:hover{
+    background: #3b5998;
+    transition: 1s;
+}
