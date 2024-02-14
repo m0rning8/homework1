@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9043f538-1db4-4c04-9ae9-15d8eaf60f9e" name="Changes" comment="зробив дз">
-      <change afterPath="$PROJECT_DIR$/project/img/Group 162549 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/img/Logo Icon 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/project.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/img/align-vertically.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/img/camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/img/code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/img/code1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/img/image 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/img/layer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/img/video-play.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/project/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +85,7 @@
       <workItem from="1707418338740" duration="621000" />
       <workItem from="1707509808157" duration="12644000" />
       <workItem from="1707596790788" duration="8732000" />
-      <workItem from="1707787474535" duration="7504000" />
+      <workItem from="1707787474535" duration="15336000" />
     </task>
     <task id="LOCAL-00001" summary="зробив дз">
       <option name="closed" value="true" />
@@ -218,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707522338908</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="зробив дз">
+      <option name="closed" value="true" />
+      <created>1707795049923</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1707795049924</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
