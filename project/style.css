@@ -6,6 +6,9 @@ body{
     font-family: "Lato", sans-serif;
     margin: 0;
 }
+a{
+    text-decoration: none;
+}
 #firstpage{
     flex-wrap: wrap;
     width: 100%;
@@ -40,6 +43,9 @@ header{
     margin-bottom: -8px;
 }
 .contact{
+    align-items: center;
+    justify-content: center;
+    display: flex;
     font-size: 16px;
     margin-right: -5%;
     color: #fff;
@@ -109,10 +115,13 @@ a:hover{
     height: 99%;
 }
 .our-services{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: #fff;
+    margin-top: 5%;
     font-weight: 700;
     font-size: 20px;
-    margin-top: 4%;
     width: 25%;
     height: 6vh;
     cursor: pointer;
@@ -124,7 +133,7 @@ a:hover{
     background: #3b5998;
     transition: 1s;
 }
-.secondpage{
+#secondpage{
     align-items: center;
     justify-content: center;
     flex-direction: column;
@@ -162,7 +171,7 @@ a:hover{
     font-size: 21px;
     color: rgba(255, 255, 255, 0.70);
 }
-.thirdpage{
+#thirdpage{
     width: 100%;
     height: 100vh;
     background: #19191B;
@@ -186,7 +195,7 @@ a:hover{
     justify-content: space-around;
     align-items: center;
 }
-.thirdpage>.service>.icons>div{
+#thirdpage>.service>.icons>div{
      display: flex;
     flex-direction: column;
     justify-content: center;
@@ -328,4 +337,110 @@ a:hover{
 }
 .video{
     width: 33%;
+}
+#fourthpage{
+    height: 100vh;
+    width: 100%;
+    background: #19191B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.textandimg{
+    display: flex;
+    width: 90%;
+    height: 80vh;
+    justify-content: space-around;
+    align-items: center;
+}
+.squid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 370px;
+    height: 300px;
+    border-radius: 14px;
+    background: #1E1E20;
+}
+.interior{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 370px;
+    height: 300px;
+    border-radius: 14px;
+    background: #1E1E20;
+}
+.love{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 370px;
+    height: 300px;
+    border-radius: 14px;
+    background: #1E1E20;
+}
+.text4{
+    position: relative;
+    left: -300px;
+    font-size: 58px;
+    font-weight: 800;
+}
+.fifthpage{
+    justify-content: flex-end;
+    background: #19191B;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+}
+.div5{
+    background: rgba(30, 30, 32);
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contactus{
+    margin-left: 8%;
+    width: 50%;
+    font-size: 60px;
+}
+.contactusbutton{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 10%;
+    height: 6vh;
+    color: #fff;
+    font-size: 21px;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+    background: #5454D4;
+    margin-right: 8%;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 20vh;
+}
+.logo5{
+    margin-left: 5%;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 140%;
+}
+.contactusbutton:hover{
+    transition: 1s;
+    background: darkblue;
+}
+.rights{
+    color: rgba(255, 255, 255, 0.70);
+    font-size: 16px;
+    margin-right: 5%;
 }
